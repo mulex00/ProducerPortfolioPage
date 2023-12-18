@@ -1,0 +1,34 @@
+{
+    "lng": "hu",
+    "nav": [
+        "Kezdőlap",
+        "Új zene",
+        "Kiadott zenék",
+        "Kapcsolat"
+    ],
+    "landing": [
+        "MVLLER",
+        "vagyok",
+        "",
+        "Valódi nevemen Müller Alex egy 23 éves magyar elektronikus zenéket készítő producer. Az elektronikus zene iránti szenvedélyem már fiatal koromban kibontakozott, és azóta folyamatosan fejlesztem saját hangzásvilágomat.",
+        "Kollaborálj velem!"
+    ],
+    "newmusic": [
+        "Új zene",
+        "Legújabb dalom a My Hope December 22-én jelenik meg.",
+        "Pre-Save My Hope"
+    ],
+    "releases": [
+        "Eddigi megjelenések",
+        "Meghallgathatod az összes kiadott saját dalomat és remixemet."
+    ],
+
+    "contact": [
+        "Készítsünk egy közös zenét",
+        "Ha szeretnél velem egy közös zenét készíteni vagy remixelnéd valamelyik zenémet, akkor vedd fel velem a kapcsolatot az űrlapot kitöltve, vagy a social media platformok egyikén!",
+        "NÉV",
+        "EMAIL",
+        "ÜZENET",
+        "ŰRLAP LEADÁSA"
+    ]
+}

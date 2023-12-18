@@ -1,0 +1,33 @@
+{
+    "lng": "en",
+    "nav": [
+        "Home",
+        "New release",
+        "Releases",
+        "Contact"
+    ],
+    "landing": [
+        "",
+        "I'm",
+        "MVLLER",
+        "My real name is Alex Müller, a 23 year old Hungarian electronic music producer. I developed my passion for electronic music at a young age, and since then I have been constantly developing my own sound.",
+        "Collaborate with me!"
+    ],
+    "newmusic": [
+        "New release",
+        "My newest song My Hope will be released on 22 December.",
+        "Pre-Save My Hope"
+        ],
+    "releases": [
+        "Releases",
+        "You can listen to all my songs and remixes that I have released so far."
+    ],
+    "contact": [
+        "Let's make music together",
+        "If you would like to make a track with me or remix one of my tracks, contact me by filling in the form or on one of the social media platforms.",
+        "NAME",
+        "EMAIL",
+        "MESSAGE",
+        "SUBMIT FORM"
+    ]
+}

@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@400;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*html,
+body,
+#root,
+
+.app {
+  height: 100%;
+  background-color: #010026;
+  @apply text-white;
+}*/
+
+@layer base{
+  :root{
+    --background-color: #010026;
+    --secondary-color: #292347;
+    --border-color: white;
+    --text-color: white; 
+    --text-secondary-color: #fd4949;
+    --btn-text-hover: black;
+    @apply text-white;
+  }
+  [theme="light"] {
+    --background-color: white;
+    --secondary-color : linear-gradient(90deg, rgb(227, 228, 228) 0%, rgb(229, 232, 232) 100%);
+    --border-color: black;
+    --text-color: black;
+    --text-secondary-color: #9220fc;
+    --btn-text-hover: white;
+    @apply text-black;
+  }
+  [theme="dark"] {
+    --background-color: #010026;
+    --secondary-color: #292347;
+    --border-color: white;
+    --text-color: white; 
+    --text-secondary-color: #fd4949;
+    --btn-text-hover: black;
+    @apply text-white;
+  }
+}

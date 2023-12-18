@@ -1,0 +1,6 @@
+.custom-line:before {
+  background: var(--text-color);
+}
+.custom-lineh:before {
+  background: none;
+}
